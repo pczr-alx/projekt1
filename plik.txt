@@ -1,2 +1,2 @@
-Ala ma kota.
-Ola ma psa.
+Ala ma kota Filemona.
+Ola ma psa Toto.
