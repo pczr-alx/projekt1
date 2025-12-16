@@ -4,3 +4,4 @@ wtorek
 czwartek
 piąteczek
 sobota
+niedziela
