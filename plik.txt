@@ -1,5 +1,5 @@
 Ala ma białego kota Filemona.
 Ola ma psa Toto rasy maltańczyk.
-Trzecia linia.
+Trzecia linia DEVELOP.
 Teraz normalna czwarta linia.
 Developujemy sobie dalej...
