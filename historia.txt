@@ -3,3 +3,4 @@ wtorek
 środa
 czwartek
 piąteczek
+sobota
