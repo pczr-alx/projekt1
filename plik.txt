@@ -3,3 +3,4 @@ Ola ma psa Toto rasy maltańczyk.
 Trzecia linia MASTERODEVELOP.
 Teraz normalna czwarta linia.
 Developujemy sobie dalej...
+wersja master
