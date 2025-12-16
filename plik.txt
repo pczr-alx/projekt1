@@ -4,3 +4,4 @@ Trzecia linia MASTERODEVELOP.
 Teraz normalna czwarta linia.
 Developujemy sobie dalej...
 wersja master poprawiona
+Edycja na GitHub.
